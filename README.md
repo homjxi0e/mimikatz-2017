@@ -1,1 +1,1 @@
-# GIhad_ALkmaty2.0
+# mimikatz
